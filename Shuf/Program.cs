@@ -10,6 +10,8 @@ namespace Shuf
     {
         //This project exists for the sole purpose of honing my C# skills as I transition away
         // from VB.NET as my primary .NET language.
+        // That said, it's 2021 and I'm just having fun with old code.
+        //
         // Copyright Dan Rhea 2015
         /// <summary>
         /// The main entry point for the application.

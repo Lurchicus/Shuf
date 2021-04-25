@@ -12,6 +12,8 @@ namespace Shuf
 {
     //This project exists for the sole purpose of honing my C# skills as I transition away
     // from VB.NET as my primary .NET language.
+    // That said, it's 2021 and I'm just having fun with old code.
+    //
     // Copyright Dan Rhea 2015 
     // ToDo:
     //  Add a shoe size so we can have one or more decks in the shoe (use a spinner control)
